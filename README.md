@@ -1,0 +1,2 @@
+# SpringBoot_Microservices_ApacheCamel_Consul_REST_DSL_Aggregation
+Apache Camel Rest Integration with spring boot and consul
